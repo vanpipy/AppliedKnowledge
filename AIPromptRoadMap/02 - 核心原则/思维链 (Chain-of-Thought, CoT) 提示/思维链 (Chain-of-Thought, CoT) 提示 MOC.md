@@ -1,0 +1,5 @@
+- [[思维链定义与原理]]
+- [[零样本CoT (Zero-Shot CoT)]]
+- [[少样本CoT (Few-Shot CoT)]]
+- [[自洽性 (Self-Consistency)]]
+- [[Auto-CoT]]

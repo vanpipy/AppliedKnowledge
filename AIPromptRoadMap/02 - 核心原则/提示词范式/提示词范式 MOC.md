@@ -1,0 +1,3 @@
+- [[零样本提示 (Zero-Shot Prompting)]]
+- [[少样本提示 (Few-Shot Prompting)]]
+- [[多样本提示 (Multi-Shot Prompting)]]

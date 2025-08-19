@@ -1,0 +1,5 @@
+- [[元提示 (Meta-Prompting)]]
+- [[程序辅助语言模型 (Program-aided Language Models)]]
+- [[工具使用 (Tool Use)]]
+- [[多模态提示]]
+- [[对抗性提示 (Adversarial Prompting)]]
